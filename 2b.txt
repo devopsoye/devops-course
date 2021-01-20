@@ -1,1 +1,8 @@
+echo "president of the free world"
+1. Obama
+2. Clinton
+3. Bush
+4. Trump - the bully
+
 echo "Biden is now the president as the 46th president"
+
