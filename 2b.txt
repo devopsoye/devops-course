@@ -1,0 +1,1 @@
+echo "Biden is now the president as the 46th president"
